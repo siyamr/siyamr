@@ -1,7 +1,7 @@
 ## Hello there 👋
 
 ### My name is Siyam ! 
-I am an AI Software Engineer interested in all things technology!
+I am an AI Research Engineer interested in all things technology!
 
 - 👨🏽‍🎓 Fre(nch)ly graduated in Biotech & AI from @ESME Sudria, Paris.
 - 👯 Love building cool & fun projects.
